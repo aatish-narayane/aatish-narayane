@@ -120,7 +120,7 @@ Practical Go examples covering goroutines, channels, context cancellation, fan-o
 
 **Focus:** Go concurrency, synchronization, runtime internals, and memory behavior.
 
-**[Go CRUD API & Performance Profiling](https://github.com/aatish-narayane/go-backend-crud)**
+**[Go CRUD API & Performance Profiling](https://github.com/aatish-narayane/go-crud-api)**
 
 A Go backend project demonstrating PostgreSQL integration, CRUD operations, database migrations, connection pooling, compiler escape analysis, and performance profiling.
 
