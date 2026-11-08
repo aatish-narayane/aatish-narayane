@@ -114,13 +114,13 @@ Currently working at **Netweb Technologies India Ltd.**, contributing to cloud p
 
 ### Go & Backend Engineering
 
-**[Go Concurrency & Runtime Internals](https://github.com/aatish-nayarane/go-concurrency-internals)**
+**[Go Concurrency & Runtime Internals](https://github.com/aatish-narayane/go-concurrency-internals)**
 
 Practical Go examples covering goroutines, channels, context cancellation, fan-out/fan-in, scheduling, pointers, interfaces, and compiler escape analysis.
 
 **Focus:** Go concurrency, synchronization, runtime internals, and memory behavior.
 
-**[Go CRUD API & Performance Profiling](https://github.com/aatish-nayarane/go-backend-crud)**
+**[Go CRUD API & Performance Profiling](https://github.com/aatish-narayane/go-backend-crud)**
 
 A Go backend project demonstrating PostgreSQL integration, CRUD operations, database migrations, connection pooling, compiler escape analysis, and performance profiling.
 
@@ -128,25 +128,25 @@ A Go backend project demonstrating PostgreSQL integration, CRUD operations, data
 
 ### Python & Distributed Systems
 
-**[FastAPI + MongoDB Async](https://github.com/aatish-nayarane/fastapi-mongodb-async)**
+**[FastAPI + MongoDB Async](https://github.com/aatish-narayane/fastapi-mongodb-async)**
 
 An asynchronous MongoDB integration for FastAPI, covering database lifecycle management and CRUD operations.
 
 **Focus:** Python, FastAPI, asynchronous database access, and MongoDB.
 
-**[Python Event Sourcing](https://github.com/aatish-nayarane/python-event-sourcing)**
+**[Python Event Sourcing](https://github.com/aatish-narayane/python-event-sourcing)**
 
 An example of event-sourced state management using domain events, event storage, and event replay.
 
 **Focus:** Python, event-driven design, and state reconstruction.
 
-**[Python Circuit Breaker](https://github.com/aatish-nayarane/python-circuit-breaker)**
+**[Python Circuit Breaker](https://github.com/aatish-narayane/python-circuit-breaker)**
 
 A resilience-pattern implementation demonstrating circuit states, failure handling, and recovery.
 
 **Focus:** Python, fault tolerance, and resilient backend services.
 
-**[Python gRPC Microservices](https://github.com/aatish-nayarane/grpc-microservices-python)**
+**[Python gRPC Microservices](https://github.com/aatish-narayane/grpc-microservices-python)**
 
 A service-to-service communication example using gRPC and Protocol Buffers.
 
@@ -154,7 +154,7 @@ A service-to-service communication example using gRPC and Protocol Buffers.
 
 ### Event-Driven Architecture
 
-**[Pub-Sub Service](https://github.com/aatish-nayarane/pub-sub-service)**
+**[Pub-Sub Service](https://github.com/aatish-narayane/pub-sub-service)**
 
 A publish-subscribe service demonstrating event-driven messaging and real-time notification workflows.
 
@@ -166,11 +166,11 @@ A publish-subscribe service demonstrating event-driven messaging and real-time n
 
 ### Contribution Streak
 
-<img src="https://streak-stats.demolab.com?user=aatish-nayarane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=aatish-narayane&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### Contribution Overview
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatish-nayarane&theme=tokyonight" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aatish-narayane&theme=tokyonight" alt="GitHub Profile Summary" />
 
 ---
 
@@ -207,8 +207,8 @@ A publish-subscribe service demonstrating event-driven messaging and real-time n
 ##  Let's Connect
 
 - **Email:** [aatishnarayane007@gmail.com](mailto:aatishnarayane007@gmail.com)
-- **LinkedIn:** [Aatish Narayane](https://linkedin.com/in/aatish-nayarane-491472191/)
-- **GitHub:** [aatish-nayarane](https://github.com/aatish-nayarane)
+- **LinkedIn:** [Aatish Narayane](https://linkedin.com/in/aatish-narayane-491472191/)
+- **GitHub:** [aatish-narayane](https://github.com/aatish-narayane)
 - **HackerRank:** [aatishnarayane01](https://www.hackerrank.com/profile/aatishnarayane01)
 
 ---
